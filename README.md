@@ -46,6 +46,6 @@ To run the application locally follow the below instructions
 
 But you can just use the “Deploy to Heroku” button to quickly deploy the app to Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/objectfrontiergit/restWrapper">
+<a href="https://heroku.com/deploy?template=https://github.com/DanHca/demopackageh4brest">
 <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
