@@ -1,5 +1,7 @@
 
-# Smart contract REST wrapper
+# See QUIP for instructions
+
+Button to install is at the bottom
 
 ### What is this app?
 
